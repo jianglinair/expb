@@ -9,6 +9,6 @@ import com.alibaba.android.arouter.facade.template.IProvider;
  *
  * @author jiang
  */
-interface BService extends IProvider {
+public interface BService extends IProvider {
     BInfo getInfo();
 }
