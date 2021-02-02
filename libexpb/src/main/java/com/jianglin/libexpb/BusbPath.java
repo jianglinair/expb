@@ -8,5 +8,5 @@ package com.jianglin.libexpb;
  * @author jiang
  */
 public class BusbPath {
-    public static final String BUSB = "b/busb";
+    public static final String BUSB = "/b/busb";
 }
