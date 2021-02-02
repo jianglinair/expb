@@ -9,4 +9,5 @@ package com.jianglin.libexpb;
  */
 public class BusbPath {
     public static final String BUSB = "/b/busb";
+    public static final String BSERVICE = "/b/service";
 }
