@@ -1,0 +1,3 @@
+include ':libexpb'
+include ':app'
+rootProject.name = "expb"
